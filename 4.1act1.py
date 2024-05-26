@@ -1,3 +1,7 @@
+#Entrada de datos: nota_1, nota_2, nota_3, nota_4 y nota_5
+#Tipo de datos: números enteros
+#Proceso: se solicita al usuario que ingrese las notas, para luego calcular el promedio de las mismas
+#Salida: Promedio de las notas ingresadas.
 nota_1 = int(input("Ingrese la primera nota: "))
 nota_2 = int(input("Ingrese la segunda nota: "))
 nota_3 = int(input("Ingrese la tercera nota: "))
